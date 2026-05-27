@@ -1,0 +1,54 @@
+{
+  "id": "1c3b0160-3b74-46a9-9e48-9a1a61276008",
+  "payer": {
+    "reference": "50e14f43-dd4e-412f-864d-78943ea28d91",
+    "email": null,
+    "lastName": null,
+    "firstName": null,
+    "organisationName": "ACME",
+    "accountIdentifiers": {},
+    "phoneNumber": null
+  },
+  "amount": 1000,
+  "device": {
+    "ip": "1.1.1.1",
+    "userAgent": null,
+    "fingerprint": null
+  },
+  "sender": {
+    "name": null,
+    "accountIdentifiers": {}
+  },
+  "status": "NEW_PAYMENT",
+  "currency": "GBP",
+  "createdAt": "2025-04-16T10:59:04+00:00",
+  "updatedAt": null,
+  "beneficiary": {
+    "name": "Merchant",
+    "accountIdentifiers": {
+      "accountNumber": "12345678",
+      "sortCode": "040004"
+    }
+  },
+  "transferType": "Faster Payments",
+  "openBankingUK": {
+    "type": "GOODS",
+    "provider": "Volt",
+    "institutionId": "43a54bd7-dcc2-444c-9b00-ea9ce813705a",
+    "validityPeriod": 30,
+    "accountIdentifiers": {
+      "accountNumber": "12345678"
+    }
+  },
+  "paymentSystem": "OPEN_BANKING_UK",
+  "paymentReference": "6HNDLC5GMYMB83Q4BX",
+  "internalReference": "internal-ref",
+  "displayInfo": [],
+  "paymentInitiationFlow": {
+    "status": "PROCESSING",
+    "details": {
+      "reason": "AWAITING_SDK_HANDOFF",
+      "token": "paymentToken"
+    }
+  }
+}

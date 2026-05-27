@@ -1,0 +1,37 @@
+{
+  "id": "15ed231c-56e4-46d5-aa7b-92f1a6eb982f",
+  "name": "J&T BANKA",
+  "country": "DE",
+  "assets": {
+    "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/cz_jt-banka.svg",
+    "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/cz_jt-banka.svg"
+  },
+  "capabilities": {
+    "payments": {
+      "active": true,
+      "accountIdentifiersRequired": [
+        "IBAN"
+      ],
+      "additionalDataRequired": [],
+      "communication": {
+        "appToApp": "UNKNOWN"
+      }
+    }
+  },
+  "types": [],
+  "supportedCurrencies": [
+    "EUR"
+  ],
+  "alternativeName": "J AND T BANKA",
+  "nationalId": "",
+  "localName": "J&T BANKA",
+  "group": {
+    "name": null,
+    "localName": null
+  },
+  "branch": {
+    "name": null,
+    "localName": null
+  }
+}
+

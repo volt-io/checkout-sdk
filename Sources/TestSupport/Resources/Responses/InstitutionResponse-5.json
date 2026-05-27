@@ -1,0 +1,38 @@
+{
+  "id": "dd7ccb61-7a56-4868-ade2-7d8c633e4106",
+  "name": "Barclays",
+  "country": "GB",
+  "assets": {
+    "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_barclays.svg",
+    "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_barclays.svg"
+  },
+  "capabilities": {
+    "payments": {
+      "active": true,
+      "accountIdentifiersRequired": [
+          "ACCOUNT_NUMBER"
+      ],
+      "additionalDataRequired": [],
+      "communication": {
+        "appToApp": "UNKNOWN"
+      }
+    }
+  },
+  "types": [
+    "PERSONAL"
+  ],
+  "supportedCurrencies": [
+    "GBP"
+  ],
+  "alternativeName": "Barclays Personal",
+  "nationalId": "203287",
+  "localName": "Barclays Bank",
+  "group": {
+    "name": "Barclays",
+    "localName": "Barclays"
+  },
+  "branch": {
+    "name": null,
+    "localName": null
+  }
+}

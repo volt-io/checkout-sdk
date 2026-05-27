@@ -1,0 +1,33 @@
+{
+    "amount": 10000,
+    "communication": {
+        "notification": {
+            "url": "https://mywebsite.com/webhooks"
+        },
+        "return": {
+            "url": "https://example.com"
+        }
+    },
+    "currency": "EUR",
+    "device": {
+        "fingerprint": "2aae6c35c94fcfb415dbe95f408b9ce91ee846ed",
+        "ip": "192.168.0.1",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0"
+    },
+    "internalReference": "davide-postman",
+    "openBankingEU": {
+        "accountIdentifiers": {
+            "IBAN": "DE12345"
+        },
+        "type": "OTHER"
+        // "validityPeriod": 1440
+    },
+    "payer": {
+        "email": "johndoe@example.com",
+        "firstName": "John",
+        "lastName": "Doe",
+        "reference": "davide-postman-"
+    },
+    "paymentSystem": "OPEN_BANKING_EU",
+    "termsAndConditionsAccepted": true
+}

@@ -1,0 +1,38 @@
+{
+  "id": "3426d1bf-9a66-44da-b758-ff324a6faba8",
+  "name": "Deutsche Bank",
+  "country": "DE",
+  "assets": {
+    "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/xx_deutschebank.svg",
+    "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/xx_deutschebank.svg"
+  },
+  "capabilities": {
+    "payments": {
+      "active": true,
+      "accountIdentifiersRequired": [
+        "IBAN",
+        "BRANCH_CODE",
+        "ACCOUNT_NUMBER"
+      ],
+      "additionalDataRequired": [],
+      "communication": {
+        "appToApp": "UNKNOWN"
+      }
+    }
+  },
+  "types": [],
+  "supportedCurrencies": [
+    "EUR"
+  ],
+  "alternativeName": "",
+  "nationalId": "10070000",
+  "localName": "Deutsche Bank",
+  "group": {
+    "name": null,
+    "localName": null
+  },
+  "branch": {
+    "name": null,
+    "localName": null
+  }
+}

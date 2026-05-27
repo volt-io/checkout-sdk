@@ -1,0 +1,52 @@
+{
+  "id": "1c3b0160-3b74-46a9-9e48-9a1a61276008",
+  "payer": {
+    "reference": "50e14f43-dd4e-412f-864d-78943ea28d91",
+    "email": null,
+    "lastName": null,
+    "firstName": null,
+    "organisationName": "ACME",
+    "accountIdentifiers": {},
+    "phoneNumber": null
+  },
+  "amount": 1000,
+  "device": {
+    "ip": "1.1.1.1",
+    "userAgent": null,
+    "fingerprint": null
+  },
+  "sender": {
+    "name": null,
+    "accountIdentifiers": {}
+  },
+  "status": "NEW_PAYMENT",
+  "currency": "EUR",
+  "createdAt": "2025-04-16T10:59:04+00:00",
+  "updatedAt": null,
+  "beneficiary": {
+    "name": "Merchant",
+    "accountIdentifiers": {
+      "iban": "DE89370400440532013000",
+      "swiftBic": "DEUTDEMM"
+    }
+  },
+  "transferType": "SEPA Instant Credit Transfer (within country)",
+  "openBankingEU": {
+    "type": "OTHER",
+    "provider": "Volt",
+    "institutionId": "c61dbd4d-7dfb-4f49-8d28-046d9cdc1420",
+    "validityPeriod": 30,
+    "accountIdentifiers": {}
+  },
+  "paymentSystem": "OPEN_BANKING_EU",
+  "paymentReference": "6HNDLC5GMYMB83Q4BX",
+  "internalReference": "internal-ref",
+  "displayInfo": [],
+  "paymentInitiationFlow": {
+    "status": "PROCESSING",
+    "details": {
+      "reason": "AWAITING_SDK_HANDOFF",
+      "token": "paymentToken"
+    }
+  }
+}

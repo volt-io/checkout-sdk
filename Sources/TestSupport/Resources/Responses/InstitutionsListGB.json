@@ -1,0 +1,1585 @@
+[
+  {
+    "id": "6c842fbd-6a15-4c08-a749-f143b6a17fae",
+    "name": "Barclays Corporate",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_barclays.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_barclays.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": false,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "BUSINESS"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "203287",
+    "localName": "Barclays Corporate",
+    "group": {
+      "name": "Barclays",
+      "localName": "Barclays"
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "dd7ccb61-7a56-4868-ade2-7d8c633e4106",
+    "name": "Barclays",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_barclays.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_barclays.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [
+            "ACCOUNT_NUMBER"
+        ],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "Barclays Personal",
+    "nationalId": "203287",
+    "localName": "Barclays Bank",
+    "group": {
+      "name": "Barclays",
+      "localName": "Barclays"
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "ff8ba116-0c1f-4553-abb9-e1d2bd8197f6",
+    "name": "Lloyds Bank",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_lloyds.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_lloyds.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "309634",
+    "localName": "Lloyds Bank",
+    "group": {
+      "name": "Lloyds Bank",
+      "localName": "Lloyds Bank"
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "5e56b501-3b1c-47bc-bac0-dd7bb82c99c4",
+    "name": "Halifax",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_halifax.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_halifax.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "119906",
+    "localName": "Halifax",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "c3f42f1a-8056-47c3-9d52-38abf93f4d44",
+    "name": "NatWest",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_natwest.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_natwest.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "600004",
+    "localName": "NatWest",
+    "group": {
+      "name": "NatWest",
+      "localName": "NatWest"
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "fd6ab653-9619-4842-ad43-851b8622c128",
+    "name": "Monzo",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_monzo.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_monzo.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "Mondo",
+    "nationalId": "",
+    "localName": "Monzo Bank",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "0fbdb087-6b19-4ad4-90ed-caa2dfe3f809",
+    "name": "HSBC",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_hsbc.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_hsbc.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "Hong Kong Shanghai Business Corporation",
+    "nationalId": "401900",
+    "localName": "HSBC",
+    "group": {
+      "name": "HSBC",
+      "localName": "HSBC"
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "6396e254-e465-4188-9e2b-f05b3d89ff49",
+    "name": "Nationwide",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_nationwide.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_nationwide.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "BUSINESS",
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "Nationwide Building Society",
+    "nationalId": "70010",
+    "localName": "Nationwide Building Society",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "5ab8443e-23dd-4236-98e0-cecb3d68a7df",
+    "name": "Revolut",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/xx_revolut.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/xx_revolut.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "",
+    "localName": "Revolut",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "6134ac3f-c7ac-4998-a02b-5eb34e76a316",
+    "name": "Starling",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_starling.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_starling.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "",
+    "localName": "Starling Bank",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "b97dc5fd-6e66-49e7-8932-748b77251feb",
+    "name": "TSB",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_tsb.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_tsb.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "TSB Lloyds TSB",
+    "nationalId": "302885",
+    "localName": "TSB Bank",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "3e248dcb-fd5c-4f88-9626-bda128dcddd5",
+    "name": "RBS",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_rbs.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_rbs.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "RBS RBOS Royal Bank of Scotland",
+    "nationalId": "",
+    "localName": "Royal Bank of Scotland",
+    "group": {
+      "name": "Royal Bank of Scotland",
+      "localName": "Royal Bank of Scotland"
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "b1d4d122-4c9b-4b17-8b4b-e86e7aa9d3cb",
+    "name": "Bank of Scotland",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_bank_of_scotland.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_bank_of_scotland.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "802013",
+    "localName": "Bank of Scotland",
+    "group": {
+      "name": "Bank of Scotland",
+      "localName": "Bank of Scotland"
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "79cfb004-8e91-46d4-a761-7d89d63115fc",
+    "name": "Virgin Money",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_virgin.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_virgin.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "B Bank, Clydesdale Bank, Nationwide Building Society",
+    "nationalId": "40079",
+    "localName": "Virgin Money",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "24911268-2506-4ccf-a289-0c59ef9ec12f",
+    "name": "First Direct",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_firstdirect.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_firstdirect.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "FD First Direct",
+    "nationalId": "",
+    "localName": "First Direct",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "4516b4ad-6613-47d3-a3ef-d7a2f894a8bb",
+    "name": "Wise",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_wise.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_wise.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "Transferwise Transfer",
+    "nationalId": "231470",
+    "localName": "Wise",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": "Wise Payments Ltd",
+      "localName": "Wise"
+    }
+  },
+  {
+    "id": "0dc181eb-409f-4e12-aa2e-eaf159719b0d",
+    "name": "Coutts",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_coutts.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_coutts.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "185050",
+    "localName": "Coutts",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "c7d6f1b0-5e78-4d45-921f-332859b13b63",
+    "name": "Chase",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_chase.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_chase.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "JPMorgan JP Morgan",
+    "nationalId": "609242",
+    "localName": "Chase",
+    "group": {
+      "name": "Chase",
+      "localName": "Chase"
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "79b63f1c-667e-40ca-858e-d50a5c6c46b2",
+    "name": "Danske Bank",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_danske.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_danske.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "301281",
+    "localName": "Danske Bank",
+    "group": {
+      "name": "Danske Bank",
+      "localName": "Danske Bank"
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "bf8ae271-20eb-472c-abd7-b1f1d1e39d73",
+    "name": "AIB (GB)",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_AIB.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_AIB.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "Allied Irish Bank, GB, Great Britain,UK Britain",
+    "nationalId": "239285",
+    "localName": "AIB (GB)",
+    "group": {
+      "name": "AIB (GB)",
+      "localName": "AIB (GB)"
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "6a05ca94-548d-4ce1-b42d-8b67acf9b275",
+    "name": "AIB (GB) Business",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_AIB.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_AIB.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "BUSINESS"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "Allied Irish Bank, GB, Business",
+    "nationalId": "239285",
+    "localName": "AIB (GB) Business",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "8c93b2d7-ce8a-439c-8ac8-6dac95a8ad04",
+    "name": "AIB (NI)",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_AIB.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_AIB.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "Allied Irish Bank, NI, Northern Ireland, Island, Bank, Irish, First Trust",
+    "nationalId": "938831",
+    "localName": "AIB (NI)",
+    "group": {
+      "name": "AIB (NI)",
+      "localName": "AIB (NI)"
+    },
+    "branch": {
+      "name": "Consumer",
+      "localName": "AIB (NI)"
+    }
+  },
+  {
+    "id": "410cea10-e87d-4530-be1b-ffcf423ff934",
+    "name": "AIB (NI) Business",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_AIB.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_AIB.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "BUSINESS"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "Allied Irish Bank, NI, Business, Northern Ireland",
+    "nationalId": "938831",
+    "localName": "AIB (NI) Business",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": "AIB (NI) Business",
+      "localName": "Business - AIB (NI)"
+    }
+  },
+  {
+    "id": "df9fb9f5-04d1-4a3f-87dc-7cd2319503c1",
+    "name": "Bank of Ireland",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_bank_of_ireland.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_bank_of_ireland.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "902397",
+    "localName": "Bank of Ireland UK",
+    "group": {
+      "name": "Bank of Ireland UK",
+      "localName": "Bank of Ireland UK"
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "674c5260-c2fd-495e-b0eb-d472d4a3db8a",
+    "name": "Bank of Ireland Business",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_bank_of_ireland.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_bank_of_ireland.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "BUSINESS"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "902397",
+    "localName": "Business - Bank of Ireland UK",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "bf59afc0-2494-400f-af07-acab4ca990d8",
+    "name": "Bank of Scotland Business",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_bank_of_scotland.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_bank_of_scotland.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "BUSINESS"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "802487",
+    "localName": "Bank of Scotland - Business",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "89a94f4f-d22c-4ad1-acbe-b0aced110f2b",
+    "name": "Bank of Scotland - Commercial",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_bank_of_scotland.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_bank_of_scotland.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": false,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "110448",
+    "localName": "Bank of Scotland - Commercial",
+    "group": {
+      "name": "Bank of Scotland",
+      "localName": "Bank of Scotland"
+    },
+    "branch": {
+      "name": "Commercial",
+      "localName": "Bank of Scotland - Commercial"
+    }
+  },
+  {
+    "id": "482e2837-d4ad-4f4a-9909-0d4e26f4a1be",
+    "name": "Barclays Business",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_barclays.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_barclays.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "BUSINESS"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "Wealth",
+    "nationalId": "203287",
+    "localName": "Business - Barclays Bank",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "90c698b3-eebb-4359-9c27-e0f9ed24d1bf",
+    "name": "Barclays Wealth",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_barclays.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_barclays.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "BUSINESS"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "Virgin Money, Barclays Business",
+    "nationalId": "203287",
+    "localName": "Barclays Wealth Management",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "ad446ace-b123-45bc-b34d-b3984a2b19f8",
+    "name": "Cashplus",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_cash_plus.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_cash_plus.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "Cash Plus",
+    "nationalId": "600004",
+    "localName": "Cash Plus",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "273befa3-e48f-4db7-9320-bb82201af069",
+    "name": "Chelsea Building Society",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/xx_default.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/xx_default.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": false,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "",
+    "localName": "Chelsea Building Society",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "1360abd3-e794-48ac-839e-587661d97e53",
+    "name": "Danske Bank Business",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_danske.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_danske.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "BUSINESS"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "301281",
+    "localName": "Business - Danske Bank",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "56f6456e-21fd-4f93-9628-e4f6ccde27ca",
+    "name": "HSBC Business",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_hsbc.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_hsbc.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "BUSINESS"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "Hong Kong Shanghai Business Corporation",
+    "nationalId": "401900",
+    "localName": "Business - HSBC",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "331e19e7-5781-449f-940c-dce41ca7fa4d",
+    "name": "HSBC Kinetic",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_hsbc.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_hsbc.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "BUSINESS"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "401900",
+    "localName": "HSBC Kinetic",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": "HSBC Kinetic",
+      "localName": "HSBC Kinetic"
+    }
+  },
+  {
+    "id": "e44af117-53c4-4a20-9398-ee09a3b24fd0",
+    "name": "Lloyds Bank Business",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_lloyds.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_lloyds.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "BUSINESS"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "309634",
+    "localName": "Business - Lloyds Bank",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "7697a239-be8b-445d-ace4-79dc1bf6c61d",
+    "name": "NatWest Bankline",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_natwest.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_natwest.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": false,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "BUSINESS"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "600004",
+    "localName": "Business Bankline - NatWest",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "579f3993-d32b-47ce-b32b-625cbe2a9587",
+    "name": "RBS Bankline",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_rbs.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_rbs.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "BUSINESS"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "Royal Bank of Scotland Bankline RBOS",
+    "nationalId": "",
+    "localName": "Royal Bank of Scotland Bankline",
+    "group": {
+      "name": "Royal Bank of Scotland",
+      "localName": "Royal Bank of Scotland"
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "eb13cd0b-ed68-4d0f-9a1b-54a7ae80b9ed",
+    "name": "Revolut",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/xx_revolut.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/xx_revolut.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "32500",
+    "localName": "Revolut",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": "Revolut",
+      "localName": "Revolut"
+    }
+  },
+  {
+    "id": "a414da36-d479-43a2-bc4c-6dad6b0c2811",
+    "name": "Tesco Bank",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_tesco.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_tesco.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "406415",
+    "localName": "Tesco Bank",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "d1b5a306-bdd3-49f3-ab7f-16e9f992bee4",
+    "name": "The Cumberland",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_cumberland.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_cumberland.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "Cumberland Building Society",
+    "nationalId": "165221",
+    "localName": "Cumberland Building Society",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "8b92dc0d-e45b-48ec-bff2-3a6dac9f7fe1",
+    "name": "Tide",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_tide.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_tide.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "40400",
+    "localName": "Tide",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "b68a9f4b-3566-42a8-a814-6b8a52bd26eb",
+    "name": "Ulster Bank",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_ulster.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_ulster.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "980000",
+    "localName": "Ulster Bank",
+    "group": {
+      "name": "Ulster Bank",
+      "localName": "Ulster Bank"
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "0d69df31-ea10-443d-a646-39e1194687e4",
+    "name": "Ulster Bank Bankline",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/gb_ulster.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/gb_ulster.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": true,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "BUSINESS"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "980000",
+    "localName": "Ulster Bank Bankline",
+    "group": {
+      "name": "Ulster Bank",
+      "localName": "Ulster Bank"
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  },
+  {
+    "id": "9b4921a2-b84d-4085-a275-294ee0473ae0",
+    "name": "Yorkshire Building Society",
+    "country": "GB",
+    "assets": {
+      "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/xx_default.svg",
+      "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/xx_default.svg"
+    },
+    "capabilities": {
+      "payments": {
+        "active": false,
+        "accountIdentifiersRequired": [],
+        "additionalDataRequired": [],
+        "communication": {
+          "appToApp": "UNKNOWN"
+        }
+      }
+    },
+    "types": [
+      "PERSONAL"
+    ],
+    "supportedCurrencies": [
+      "GBP"
+    ],
+    "alternativeName": "",
+    "nationalId": "",
+    "localName": "Yorkshire Building Society",
+    "group": {
+      "name": null,
+      "localName": null
+    },
+    "branch": {
+      "name": null,
+      "localName": null
+    }
+  }
+]

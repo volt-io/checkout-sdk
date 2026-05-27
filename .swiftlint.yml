@@ -1,0 +1,2 @@
+# Use parent config
+parent_config: ../.swiftlint.yml

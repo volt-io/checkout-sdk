@@ -1,0 +1,34 @@
+{
+  "id": "2ed2b7e1-6425-4735-91f6-e69a6bd9a7cf",
+  "name": "N26",
+  "country": "DE",
+  "assets": {
+    "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/xx_n26.svg",
+    "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/xx_n26.svg"
+  },
+  "capabilities": {
+    "payments": {
+      "active": true,
+      "accountIdentifiersRequired": [],
+      "additionalDataRequired": [],
+      "communication": {
+        "appToApp": "UNKNOWN"
+      }
+    }
+  },
+  "types": [],
+  "supportedCurrencies": [
+    "EUR"
+  ],
+  "alternativeName": "number",
+  "nationalId": "10011001",
+  "localName": "N26",
+  "group": {
+    "name": "N26",
+    "localName": "N26"
+  },
+  "branch": {
+    "name": "N26",
+    "localName": "N26"
+  }
+}

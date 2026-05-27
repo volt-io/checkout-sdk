@@ -1,0 +1,37 @@
+{
+  "id": "b68537bc-89a1-49f6-b59a-af99dd05e573",
+  "name": "Postbank",
+  "country": "DE",
+  "assets": {
+    "logo": "https:\/\/cdn.volt.io\/chk3_banks\/logos\/de_postbank.svg",
+    "icon": "https:\/\/cdn.volt.io\/chk3_banks\/icons\/de_postbank.svg"
+  },
+  "capabilities": {
+    "payments": {
+      "active": true,
+      "accountIdentifiersRequired": [
+        "IBAN",
+        "PSU_ID"
+      ],
+      "additionalDataRequired": [],
+      "communication": {
+        "appToApp": "UNKNOWN"
+      }
+    }
+  },
+  "types": [],
+  "supportedCurrencies": [
+    "EUR"
+  ],
+  "alternativeName": "",
+  "nationalId": "50010060",
+  "localName": "Postbank",
+  "group": {
+    "name": "Postbank",
+    "localName": "Postbank"
+  },
+  "branch": {
+    "name": null,
+    "localName": null
+  }
+}
